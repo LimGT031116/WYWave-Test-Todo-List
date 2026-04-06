@@ -25,13 +25,16 @@
 
 ## Project Structure
 - WYWave-Test-Todo-List/
-    - css/
-        - index.css
-    - js/
-        - add.js
-        - edit.js
-        - index.js
-        - todo.js
-    - add.html
-    - edit.html
-    - index.html
+    - src/
+        - css/
+            - index.css
+        - js/
+            - add.js
+            - edit.js
+            - index.js
+            - todo.js
+        - add.html
+        - edit.html
+        - index.
+    - README_TODO_LIST_APP.md
+    - README.md
